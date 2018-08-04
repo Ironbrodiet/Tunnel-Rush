@@ -1,5 +1,8 @@
 # Tunnel Rush
 
+![](Home_Screen.png)
+<br><br>
+![](Game.png)
 ### Welcome to Tunnel Rush!  
 You are trapped in an infinite octahedron shaped tunnel and you run on the bottom side.   
 You need to travel as much distance as possible while dodging both stationary and moving obstacles. To dodge
